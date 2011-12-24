@@ -1,3 +1,25 @@
+#Learn HTTP the Hard Way
+
+I've been talking to a lot of new programmers about how HTTP works and why we build apps with HTTP.
+
+I wanted to take a lot of those lessons and codify them into something that can be worked with
+asynchronously.
+
+The goal of this project is to teach HTTP in order to use the protocol to understand and make web applications. I'm going to use curl, wget, sinatra, chrome and jquery to introduce the HTTP concepts important in designing and delivering web applications in any environment.
+
+Definitely included will be:
+
+ * URLs
+ * Response Codes
+ * Verbs
+ * Headers
+ * Response/Request Body
+ * Resource Orientation
+
+Note: this project is mirrored at both [github](https://github.com/kylefritz/learn-http-the-hard-way) and [gitorious](https://gitorious.org/~kylefritz/learn-x-the-hard-way/learn-http-the-hard-way).
+
+---
+
 This is a starter project for people looking to make a "Learn X The Hard Way"
 book.  If you want to have a book for your favorite language, and you like the
 style of "Learn Python The Hard Way" and "Learn Ruby The Hard Way", then this
